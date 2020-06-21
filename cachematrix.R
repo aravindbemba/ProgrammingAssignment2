@@ -1,4 +1,4 @@
-## Created the Code for caching inverese.
+## Created the Code for caching inverse.
 ## functions do
 
 ## Write a short comment describing this function
